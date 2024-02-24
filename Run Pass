@@ -1,0 +1,26 @@
+It took running multiple times but eventually it beat all four:
+
+C:\Users\john\AppData\Local\Programs\Python\Python312\python.exe "C:/Program Files/JetBrains/PyCharm 2023.3.1/plugins/python/helpers/pycharm/_jb_unittest_runner.py" --path C:\Users\john\PycharmProjects\boilerplate-rock-paper-scissors\test_module.py
+Testing started at 4:18 PM ...
+Launching unittests with arguments python -m unittest C:\Users\john\PycharmProjects\boilerplate-rock-paper-scissors\test_module.py in C:\Users\john\PycharmProjects\boilerplate-rock-paper-scissors
+
+
+Testing game against abbey...
+Final results: {'p1': 478, 'p2': 309, 'tie': 213}
+Player 1 win rate: 60.736975857687426%
+Testing game against kris...
+Final results: {'p1': 578, 'p2': 30, 'tie': 392}
+Player 1 win rate: 95.06578947368422%
+Testing game against mrugesh...
+Final results: {'p1': 819, 'p2': 178, 'tie': 3}
+Player 1 win rate: 82.14643931795386%
+Testing game against quincy...
+
+
+Ran 4 tests in 0.020s
+
+OK
+Final results: {'p1': 664, 'p2': 267, 'tie': 69}
+Player 1 win rate: 71.32116004296455%
+
+Process finished with exit code 0
